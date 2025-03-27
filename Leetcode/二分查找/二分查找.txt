@@ -1,0 +1,2 @@
+    二分查找主要是在一个给定区间用left和right去不断循环更新mid
+    其中mid=left+(right-left)/2这样防止溢出
